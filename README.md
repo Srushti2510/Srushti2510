@@ -45,3 +45,7 @@
 ### 📫 Connect With Me
 
 * 🔗 https://www.linkedin.com/in/srushtikurhade
+
+### 🐍 Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/Srushti2510/Srushti2510/output/github-contribution-grid-snake-dark.svg)
