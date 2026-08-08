@@ -29,12 +29,19 @@
 * DOM Manipulation
 * Netlify
 
+**Core CS**
+* Data Structures & Algorithms
+* Operating Systems
+* Problem Solving
+* DBMS
+
 **Tools & Systems**
 * Git
 * GitHub
 * VS Code
 
+---
 
 ### 📫 Connect With Me
 
-* 🔗 **LinkedIn:** [Srushti's Profile](https://www.linkedin.com/in/srushti2510)
+* 🔗 https://www.linkedin.com/in/srushtikurhade
